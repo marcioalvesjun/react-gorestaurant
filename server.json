@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cdn.w600.comps.canstockphoto.com.br/prato-legumes-salada-fresco-fotos_csp22316483.jpg",
+      "name": "Salada",
+      "price": "15",
+      "description": "Salada fria",
+      "available": false,
+      "id": 4
     }
   ]
 }
